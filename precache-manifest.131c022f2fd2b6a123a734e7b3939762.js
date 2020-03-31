@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b4bf8c74dfdccaaed55ecdcd3a675be",
+    "revision": "fd26988566fe97740a2205493346ae1e",
     "url": "/wireframer/index.html"
   },
   {
-    "revision": "b68675c34a3004e79da6",
+    "revision": "a9902bab7e47ab13e8ef",
     "url": "/wireframer/static/css/2.f42e59c9.chunk.css"
   },
   {
-    "revision": "231009b6e24c95d704ca",
+    "revision": "bf632ee967e59ee33f3c",
     "url": "/wireframer/static/css/main.0bab90d8.chunk.css"
   },
   {
-    "revision": "b68675c34a3004e79da6",
-    "url": "/wireframer/static/js/2.d50ade9f.chunk.js"
+    "revision": "a9902bab7e47ab13e8ef",
+    "url": "/wireframer/static/js/2.c523a3f6.chunk.js"
   },
   {
     "revision": "c1a1e227e0d38d999f98a776e7657621",
-    "url": "/wireframer/static/js/2.d50ade9f.chunk.js.LICENSE.txt"
+    "url": "/wireframer/static/js/2.c523a3f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "231009b6e24c95d704ca",
-    "url": "/wireframer/static/js/main.de8d9ff9.chunk.js"
+    "revision": "bf632ee967e59ee33f3c",
+    "url": "/wireframer/static/js/main.2931783f.chunk.js"
   },
   {
     "revision": "1db0e6b097998369cb5d",
