@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce4c6d6cf7025c2c87530889e2c5b9b",
+    "revision": "384aa2449d7e517e64320ddaa57b7444",
     "url": "/wireframer/index.html"
   },
   {
